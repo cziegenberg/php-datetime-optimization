@@ -1,0 +1,4 @@
+/vendor/
+/composer.phar
+/phpstan.phar
+/phpunit.phar

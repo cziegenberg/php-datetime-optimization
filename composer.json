@@ -1,0 +1,15 @@
+{
+  "name": "example/datetime",
+  "version": "0.1.0",
+  "require": {
+    "php": "^8.4",
+    "ext-bcmath": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Example\\DateTime\\": "src/",
+      "Example\\DateTime\\Tests\\": "tests/"
+    }
+  }
+}
